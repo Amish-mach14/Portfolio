@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: Heading;
+    src: url(./assets/Higher\ Jump.ttf);
+}
+
+#page1-in{
+    position: relative;
+    perspective: 700px;
+}
+
+#tilt-div{
+    /* background-color: red; */
+    width: fit-content;
+}
