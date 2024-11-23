@@ -20,7 +20,8 @@ const Page2 = () => {
 When I'm not working on any project, you'll probably find me learning a new skill, exploring a new game or reading a book. I strive to blend creativity and logic to craft meaningful solutions and experiences.</p>
             <div className='flex flex-row'>
                 <BsCaretRightFill color="green" className='mt-2'/>
-                <p className='mt-0.5'><b>WEBSITE:</b> https://portfolio-amish.netlify.app/ </p>
+                <p className='mt-0.5'><b>WEBSITE:</b> <a href="https://portfolio-amish.netlify.app/" target="_blank"
+            rel="noopener noreferrer"> https://portfolio-amish.netlify.app/ </a></p>
             </div>
 
             <div className='flex flex-row'>
