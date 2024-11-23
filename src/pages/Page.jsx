@@ -1,5 +1,4 @@
 import React from 'react'
-import Header from '../components/Header'
 import Page1 from './page1'
 import Page2 from './Page2'
 import Page3 from './Page3'
